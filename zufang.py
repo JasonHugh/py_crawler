@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #19楼租房爬虫
+__author__ = 'jaysonhu'
 import inspect
 import urllib2,urllib,time,MySQLdb
 from bs4 import BeautifulSoup
