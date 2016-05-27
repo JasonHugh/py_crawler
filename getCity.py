@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#19楼租房爬虫
+#获取搜房网所有的城市区域名称
 __author__ = 'jaysonhu'
 import inspect
 import urllib2,urllib,time,MySQLdb
